@@ -40,7 +40,7 @@ This is a web-based real-time speech-to-text system that can stream voice input 
 - Bootstrap/Material-UI
 
 ### Backend
-- Spring Framework (SpringMVC, Spring Core)
+- Spring Framework (SpringBoot, Spring Core)
 - Hibernate ORM
 - WebSocket (Spring WebSocket)
 - STT API integration
